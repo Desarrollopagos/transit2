@@ -1,0 +1,33 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/GTWalsheimPro-Bold.ttf",
+      "sha1": "5cb890f35454069a283b30eb05ce3f216d65ff18"
+    },
+    {
+      "path": "src/assets/fonts/GTWalsheimPro-Light.ttf",
+      "sha1": "7dcbd11c3c5089e270ef91bdcf2a07bc370205e7"
+    },
+    {
+      "path": "src/assets/fonts/GTWalsheimPro-Medium.ttf",
+      "sha1": "ad1877fb65fc6cc7e0f0f4a087c09842b9836f05"
+    },
+    {
+      "path": "src/assets/fonts/GTWalsheimPro-Regular.ttf",
+      "sha1": "03b3aec5e961aa91f360aac8d990d456bbca0b5a"
+    },
+    {
+      "path": "src/assets/fonts/GTWalsheimPro-UltraBold.ttf",
+      "sha1": "7011e2410ba4f3a1e5636f8e20144d8aa3ce978c"
+    },
+    {
+      "path": "src/assets/fonts/Lexend-Regular.ttf",
+      "sha1": "bc33fa22827ac530e6bf64d3b6f412067f200d6f"
+    },
+    {
+      "path": "src/assets/fonts/Outfit-Regular.ttf",
+      "sha1": "7724dc42adf3e8caa9a1f7f64bc02016f201f550"
+    }
+  ]
+}

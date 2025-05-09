@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>333819738480-3v5soj5v6h8jlcvf7r5vhjqc3u98egij.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.333819738480-3v5soj5v6h8jlcvf7r5vhjqc3u98egij</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>333819738480-k41pse6qqdcf0n56skmfmnr13k6e4p0h.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCCeEjWxqpfTileSHs-1-gjfd7kt6smtas</string>
+	<key>GCM_SENDER_ID</key>
+	<string>333819738480</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>org.reactjs.native.example.TaxidoDriverUI</string>
+	<key>PROJECT_ID</key>
+	<string>taxido-b442f</string>
+	<key>STORAGE_BUCKET</key>
+	<string>taxido-b442f.firebasestorage.app</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:333819738480:ios:06a35158436dd10531b7b5</string>
+</dict>
+</plist>

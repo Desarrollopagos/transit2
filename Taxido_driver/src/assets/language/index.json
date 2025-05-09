@@ -1,0 +1,59 @@
+// en.json
+
+
+"homeOnlineText"=>"Online",
+"homeOflineText"=>"Offline",
+"rideInfoHeaderDetails"=>"Details",
+"noServiceText"=>"Service Unavailable",
+"noServiceDescription"=>"Unfortunately, the service you're looking for is currently not available in your selected area or time. Please try a different location or check back later.",
+"bankDetailsSwiftId"=>"Swift Id",
+"bankDetailsSwiftIdPlaceHolder"=>"Enter Swift Id",
+"bankDetailsSwiftIdWarning"=>"Please Enter Swift Id",
+"bankDetailsPaypalId"=>"Paypal Id",
+"bankDetailsEnterPaypalId"=>"Enter Paypal Id",
+"bankDetailsPaypalIdWarning"=>"Please Enter Paypal Id",
+"settingTextVersion"=>"Version",
+"imageIsssRequired"=>"Image is Required",
+"setModalMessagee"=>"An error occurred. Please try again.",
+"rideeTextt"=>"Ride"
+
+
+//ar.json
+
+
+"homeOnlineText" => "عبر الإنترنت",
+"homeOflineText" => "غير متصل",
+"rideInfoHeaderDetails" => "تفاصيل",
+"noServiceText" => "الخدمة غير متوفرة",
+"noServiceDescription" => "للأسف، الخدمة التي تبحث عنها غير متوفرة حاليًا في المنطقة أو الوقت المحدد. يرجى تجربة موقع مختلف أو المحاولة لاحقًا.",
+"bankDetailsSwiftId" => "رمز السويفت",
+"bankDetailsSwiftIdPlaceHolder" => "أدخل رمز السويفت",
+"bankDetailsSwiftIdWarning" => "يرجى إدخال رمز السويفت",
+"bankDetailsPaypalId" => "معرّف باي بال",
+"bankDetailsEnterPaypalId" => "أدخل معرّف باي بال",
+"bankDetailsPaypalIdWarning" => "يرجى إدخال معرّف باي بال",
+"settingTextVersion" => "الإصدار",
+"imageIsssRequired" => "الصورة مطلوبة",
+"setModalMessagee" => "حدث خطأ. يرجى المحاولة مرة أخرى.",
+"rideeTextt"=>"يركب"
+
+
+// fr.json
+
+
+"homeOnlineText" => "En ligne",
+"homeOflineText" => "Hors ligne",
+"rideInfoHeaderDetails" => "Détails",
+"noServiceText" => "Service indisponible",
+"noServiceDescription" => "Malheureusement, le service que vous recherchez n’est actuellement pas disponible dans la zone ou à l’heure sélectionnée. Veuillez essayer un autre emplacement ou réessayer plus tard.",
+"bankDetailsSwiftId" => "Code Swift",
+"bankDetailsSwiftIdPlaceHolder" => "Entrez le code Swift",
+"bankDetailsSwiftIdWarning" => "Veuillez entrer le code Swift",
+"bankDetailsPaypalId" => "Identifiant PayPal",
+"bankDetailsEnterPaypalId" => "Entrez l’identifiant PayPal",
+"bankDetailsPaypalIdWarning" => "Veuillez entrer l’identifiant PayPal",
+"settingTextVersion" => "Version",
+"imageIsssRequired" => "L’image est requise",
+"setModalMessagee" => "Une erreur s'est produite. Veuillez réessayer.",
+"rideeTextt"=>"Monter"
+
